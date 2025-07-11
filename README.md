@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![CNCF DevStats Card](https://devstats.me/?username=mageshwaransekar)](https://github.com/tico88612/devstats-card)
+[![CNCF DevStats Card](https://devstats.me/?username=mageshwaransekar)](https://devstats.me/?username=mageshwaransekar)
